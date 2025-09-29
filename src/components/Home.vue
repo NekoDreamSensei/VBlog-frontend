@@ -106,6 +106,8 @@
   }
 
   .el-header {
+    height: 60px;  /* 锁定为默认 60px */
+    line-height: 60px;  /* 垂直居中 */
     background-color: #20a0ff;
     color: #333;
     text-align: center;
